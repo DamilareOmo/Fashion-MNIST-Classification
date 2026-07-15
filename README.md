@@ -1,5 +1,4 @@
-# Fashion-MNIST-Classification
-# Module 6 Assignment — Fashion MNIST Classification
+# Fashion MNIST Classification
 
 A 6-layer Convolutional Neural Network (CNN) built with Keras, implemented in
 both **Python** and **R**, to classify the [Fashion MNIST](https://keras.io/api/datasets/fashion_mnist/)
