@@ -87,7 +87,7 @@ Rscript fashion_mnist_cnn.R
 ### What it does
 Mirrors the Python workflow using an `R6` class (`FashionMNISTClassifier`):
 loads and normalizes the data, builds/trains the same six-layer CNN,
-evaluates on the test set, and predicts + visualizes 5 sample images,
+evaluates on the test set, and predicts + visualizes 10 sample images,
 saving the result to `predictions_r.png`.
 
 ## Notes
