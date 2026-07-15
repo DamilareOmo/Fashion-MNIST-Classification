@@ -90,18 +90,6 @@ loads and normalizes the data, builds/trains the same six-layer CNN,
 evaluates on the test set, and predicts + visualizes 5 sample images,
 saving the result to `predictions_r.png`.
 
-### Jupyter notebook version
-`fashion_mnist_cnn_R.ipynb` contains the same class and workflow in notebook
-cells. It requires the R kernel (`IRkernel`) registered with Jupyter:
-```r
-install.packages("IRkernel")
-IRkernel::installspec()
-```
-Then launch with:
-```bash
-jupyter notebook fashion_mnist_cnn_R.ipynb
-```
-
 ## Notes
 
 - Both scripts are class-based (Python `class`, R `R6::R6Class`) as required
