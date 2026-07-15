@@ -102,4 +102,4 @@ saving the result to `predictions_r.png`.
 
 ## Author
 
-Sodiq Omoniyi | Module 6 Assignment: Fashion MNIST Classification
+Sodiq Omoniyi | Junior Machine Learning Researcher | Module 6 Assignment: Fashion MNIST Classification
