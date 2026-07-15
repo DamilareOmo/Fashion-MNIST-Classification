@@ -13,8 +13,7 @@ fashion_mnist_assignment/
 │   ├── fashion_mnist_cnn.py       # Python implementation (Keras class-based)
 │   └── fashion_mnist_cnn.ipynb    # Same code as a Jupyter notebook
 └── r/
-    ├── fashion_mnist_cnn.R        # R implementation (keras3, R6 class-based)
-    └── fashion_mnist_cnn_R.ipynb  # Same code as a Jupyter notebook (R kernel)
+    ├── fashion_mnist_cnn_R.ipynb  # Same code as a Jupyter notebook (R kernel)
 ```
 
 ## Dataset
