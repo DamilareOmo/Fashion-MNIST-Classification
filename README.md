@@ -113,3 +113,5 @@ jupyter notebook fashion_mnist_cnn_R.ipynb
   accuracy on a CPU in a few minutes; a GPU will train much faster.
 - Random seeds are not fixed, so exact accuracy and sampled prediction
   images will vary slightly between runs.
+  
+Sodiq Omoniyi | Module 6 Assignment: Fashion MNIST Classification
