@@ -99,5 +99,7 @@ saving the result to `predictions_r.png`.
   accuracy on a CPU in a few minutes; a GPU will train much faster.
 - Random seeds are not fixed, so exact accuracy and sampled prediction
   images will vary slightly between runs.
-  
+
+## Author
+
 Sodiq Omoniyi | Module 6 Assignment: Fashion MNIST Classification
