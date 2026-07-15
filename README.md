@@ -56,7 +56,7 @@ python fashion_mnist_cnn.py
 1. Loads and normalizes the Fashion MNIST dataset via `FashionMNISTClassifier.load_data()`.
 2. Builds and trains the six-layer CNN for 10 epochs (`.train()`).
 3. Evaluates accuracy on the 10,000-image test set (`.evaluate()`).
-4. Predicts labels for 5 random test images and saves a labeled image
+4. Predicts labels for 10 random test images and saves a labeled image
    grid to `predictions.png`, printing each true vs. predicted label to
    the console (`.predict_and_show()`), satisfying the "at least two
    images" prediction requirement.
